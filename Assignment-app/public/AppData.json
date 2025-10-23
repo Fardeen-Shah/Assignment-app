@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co.com/0y2yVV7M/whatsapp-1623579-1280.png",
+        "title": "WhatsApp Messenger",
+        "companyName": "Meta Platforms",
+        "description": "WhatsApp is a global, free, end-to-end encrypted messaging and calling application. It allows users to exchange text messages, photos, videos, documents, and voice notes via private and group chats. Its high-quality voice and video calling features make it an essential tool for keeping in touch with friends and family, while 'WhatsApp Business' serves as a powerful platform for small businesses to manage customer interactions.",
+        "size": 30,
+        "reviews": 50000000,
+        "ratingAvg": 4.4,
+        "downloads": "7.4",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 500000
+            },
+            {
+                "name": "2 star",
+                "count": 300000
+            },
+            {
+                "name": "3 star",
+                "count": 1500000
+            },
+            {
+                "name": "4 star",
+                "count": 10000000
+            },
+            {
+                "name": "5 star",
+                "count": 60000000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co.com/ZR0XDnfr/instagram-1581266-1280.jpg",
+        "title": "Instagram",
+        "companyName": "Meta Platforms",
+        "description": "Instagram is a premier visual social media platform that focuses on photo and short video (Reels) sharing. Users can post content to their personal 'Feed' or the 24-hour 'Stories'. It offers a variety of filters and editing tools. It's recognized as a global hub for fashion, lifestyle, art, and influencer marketing, connecting people with their interests and worldwide trends through an engaging visual experience.",
+        "size": 75,
+        "reviews": 85000000,
+        "ratingAvg": 4.6,
+        "downloads": "5.9",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 700000
+            },
+            {
+                "name": "4 star",
+                "count": 6000000
+            },
+            {
+                "name": "5 star",
+                "count": 78000000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co.com/0jnt84wD/tiktok-icon-6739342-1280.jpg",
+        "title": "TikTok",
+        "companyName": "ByteDance",
+        "description": "TikTok is an immensely influential short-form video platform that encourages users to create highly creative and entertaining videos, typically under three minutes, using a massive library of music and sounds. Its powerful discovery algorithm, known as the 'For You Page,' ensures viral content is shared globally, quickly making it the leading platform for cultural trends, memes, and discovering new music and creators.",
+        "size": 80,
+        "reviews": 90000000,
+        "ratingAvg": 4.7,
+        "downloads": "7.0",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 8000000
+            },
+            {
+                "name": "5 star",
+                "count": 85000000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co.com/qMJ1B9Z8/spotify-3384019-1280.png",
+        "title": "Spotify",
+        "companyName": "Spotify AB",
+        "description": "Spotify is a leading music, podcast, and audio streaming service that offers on-demand access to millions of tracks and exclusive content. Users can create personalized playlists, follow artists, and discover new sounds through its highly effective, data-driven recommendation engine. It operates on a freemium model, offering both ad-supported free listening and an ad-free premium subscription with offline downloads.",
+        "size": 55,
+        "reviews": 60000000,
+        "ratingAvg": 4.5,
+        "downloads": "2.1",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 100000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 3000000
+            },
+            {
+                "name": "5 star",
+                "count": 56000000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co.com/qGtD4qb/telegram-6896827-1280.png",
+        "title": "Telegram",
+        "companyName": "Telegram FZ-LLC",
+        "description": "Telegram is a cloud-based messenger renowned for its speed, security, and powerful features, including large group chats (up to 200,000 members), channels for broadcasting, and robust file-sharing capabilities. It emphasizes user privacy with optional secret chats featuring end-to-end encryption and self-destructing messages, making it a popular choice for those prioritizing data control and anonymity.",
+        "size": 40,
+        "reviews": 45000000,
+        "ratingAvg": 4.3,
+        "downloads": "2.4",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150000
+            },
+            {
+                "name": "2 star",
+                "count": 80000
+            },
+            {
+                "name": "3 star",
+                "count": 300000
+            },
+            {
+                "name": "4 star",
+                "count": 2000000
+            },
+            {
+                "name": "5 star",
+                "count": 43000000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co.com/xtTShvRL/youtube-1623577-1280.png",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "description": "YouTube is the world's most popular online video platform, providing a vast library of user-generated and professionally produced content, including music, tutorials, live streams, documentaries, and vlogs. It functions as a massive content ecosystem where users can watch, upload, and share videos, driving global trends, education, and entertainment. The app is a primary source for both passive consumption and active learning.",
+        "size": 90,
+        "reviews": 120000000,
+        "ratingAvg": 4.5,
+        "downloads": "10",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 1200000
+            },
+            {
+                "name": "4 star",
+                "count": 9000000
+            },
+            {
+                "name": "5 star",
+                "count": 108000000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co.com/JWmKvZ2S/facebook-6338508-1280.png",
+        "title": "Facebook",
+        "companyName": "Meta Platforms",
+        "description": "Facebook is the world's largest social network, enabling users to connect, share, and engage with friends, family, and communities globally. Users can update their status, share photos and videos, create events, join groups, and browse a personalized News Feed. It remains a core platform for both personal networking and business promotion, driving vast social and commercial interactions.",
+        "size": 65,
+        "reviews": 100000000,
+        "ratingAvg": 4.1,
+        "downloads": "8.2",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 2000000
+            },
+            {
+                "name": "4 star",
+                "count": 12000000
+            },
+            {
+                "name": "5 star",
+                "count": 87000000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co.com/B5pY0xqR/snapchat-3000964-1280.jpg",
+        "title": "Snapchat",
+        "companyName": "Snap Inc.",
+        "description": "Snapchat is a camera-centric messaging app famous for allowing users to send photos and videos ('Snaps') that disappear shortly after being viewed, promoting ephemeral, real-time communication. Its key features include fun AR Lenses, a 'Discover' section for professional content, and the 'Snap Map' to see friends' locations. It is particularly popular among younger demographics for quick, informal sharing.",
+        "size": 70,
+        "reviews": 40000000,
+        "ratingAvg": 4.2,
+        "downloads": "2.0",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 250000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 500000
+            },
+            {
+                "name": "4 star",
+                "count": 3000000
+            },
+            {
+                "name": "5 star",
+                "count": 36000000
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co.com/N2RzMpw1/facebook-messenger-seeklogo.png",
+        "title": "Messenger",
+        "companyName": "Meta Platforms",
+        "description": "Messenger is Meta's dedicated chat application, allowing users to send instant messages, make high-quality voice and video calls to individuals or groups, and share media separately from the main Facebook application. It includes features like custom emojis, personalized chat themes, 'Reactions', and basic payment functionalities in some regions, serving as a comprehensive communication hub for the Meta ecosystem.",
+        "size": 50,
+        "reviews": 75000000,
+        "ratingAvg": 4.6,
+        "downloads": "5.6",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 450000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 800000
+            },
+            {
+                "name": "4 star",
+                "count": 7000000
+            },
+            {
+                "name": "5 star",
+                "count": 66500000
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co.com/35V0248M/vecteezy-netflix-transparent-png-netflix-free-png-19956195.png",
+        "title": "Netflix",
+        "companyName": "Netflix, Inc.",
+        "description": "Netflix is a premier subscription-based streaming service offering a massive library of TV shows, movies, documentaries, and critically acclaimed original content. The app provides a highly personalized viewing experience with sophisticated recommendation algorithms, multiple user profiles, and the ability to download content for offline viewing. It dominates the video-on-demand market with its focus on diverse, high-quality production.",
+        "size": 60,
+        "reviews": 35000000,
+        "ratingAvg": 4.3,
+        "downloads": "1.5",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 350000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 4500000
+            },
+            {
+                "name": "5 star",
+                "count": 29350000
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co.com/MkC3vLdN/X-Logo.png",
+        "title": "X (formerly Twitter)",
+        "companyName": "X Corp.",
+        "description": "X is a microblogging and social networking platform where users can post short text messages ('Posts'), photos, and videos to engage in global conversations. It is primarily known for real-time news dissemination, quickly trending topics, and direct communication with public figures and brands. The app serves as a dynamic public square for instantaneous updates and diverse commentary.",
+        "size": 85,
+        "reviews": 55000000,
+        "ratingAvg": 4.0,
+        "downloads": "1.8",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800000
+            },
+            {
+                "name": "2 star",
+                "count": 500000
+            },
+            {
+                "name": "3 star",
+                "count": 2500000
+            },
+            {
+                "name": "4 star",
+                "count": 10000000
+            },
+            {
+                "name": "5 star",
+                "count": 41200000
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co.com/4gDFqJcV/Capcut-logo-png-HD-ijunk30.jpg",
+        "title": "CapCut - Video Editor",
+        "companyName": "ByteDance",
+        "description": "CapCut is an immensely popular, free video editing application that simplifies the creation of high-quality videos, often optimized for social media platforms like TikTok. It boasts a comprehensive suite of editing tools, including trimming, splitting, speed control, advanced filters, effects, music integration, and text overlays, making professional-level video production accessible to casual users and creators alike.",
+        "size": 110,
+        "reviews": 15000000,
+        "ratingAvg": 4.7,
+        "downloads": "2.5",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100000
+            },
+            {
+                "name": "2 star",
+                "count": 50000
+            },
+            {
+                "name": "3 star",
+                "count": 300000
+            },
+            {
+                "name": "4 star",
+                "count": 1500000
+            },
+            {
+                "name": "5 star",
+                "count": 13050000
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "https://i.ibb.co.com/FbZrDqbk/vecteezy-google-maps-logo-on-transparent-white-background-13948543.jpg",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "description": "Google Maps is a powerful mapping and navigation service providing users with detailed satellite imagery, street maps, real-time traffic conditions, and turn-by-turn navigation across the globe. It is an indispensable tool for travel, helping users find local businesses, restaurants, public transportation routes, and explore areas using Street View. Its accuracy and global coverage are unmatched.",
+        "size": 120,
+        "reviews": 95000000,
+        "ratingAvg": 4.4,
+        "downloads": "10",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 1000000
+            },
+            {
+                "name": "4 star",
+                "count": 8000000
+            },
+            {
+                "name": "5 star",
+                "count": 85000000
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "https://i.ibb.co.com/ZR89H7Qz/vecteezy-amazon-logo-on-transparent-background-14018561.jpg",
+        "title": "Amazon Shopping",
+        "companyName": "Amazon Mobile LLC",
+        "description": "The official app for the world's largest online retailer, allowing users to conveniently browse, shop for millions of products, compare prices, read customer reviews, and track orders directly from their mobile devices. It offers a secure payment gateway, various delivery options, and access to personalized recommendations and flash sales, making it a comprehensive platform for global e-commerce.",
+        "size": 70,
+        "reviews": 70000000,
+        "ratingAvg": 4.5,
+        "downloads": "1.7",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400000
+            },
+            {
+                "name": "2 star",
+                "count": 200000
+            },
+            {
+                "name": "3 star",
+                "count": 900000
+            },
+            {
+                "name": "4 star",
+                "count": 6500000
+            },
+            {
+                "name": "5 star",
+                "count": 62000000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "https://i.ibb.co.com/S74wBPzx/zoom.jpg",
+        "title": "Zoom",
+        "companyName": "Zoom Video Comm.",
+        "description": "Zoom is a leading video conferencing application that facilitates high-quality virtual meetings, webinars, and online classes with reliable video and audio. It gained massive popularity for its ease of use, screen sharing, recording capabilities, and virtual backgrounds, becoming the go-to platform for remote work, educational institutions, and large-scale online events globally.",
+        "size": 60,
+        "reviews": 10000000,
+        "ratingAvg": 4.3,
+        "downloads": "1.2",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100000
+            },
+            {
+                "name": "2 star",
+                "count": 50000
+            },
+            {
+                "name": "3 star",
+                "count": 300000
+            },
+            {
+                "name": "4 star",
+                "count": 1500000
+            },
+            {
+                "name": "5 star",
+                "count": 8050000
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "https://i.ibb.co.com/Vcmqp7v2/toppng-com-pinterest-classic-red-icon-png-512x512.png",
+        "title": "Pinterest",
+        "companyName": "Pinterest, Inc.",
+        "description": "Pinterest is a visual discovery engine and social network where users can find ideas and inspiration for nearly any interest, such as recipes, fashion, DIY projects, or travel planning. Users 'Pin' images and videos to personalized mood boards, effectively allowing them to collect and organize ideas and connect with other users who share similar tastes and aspirations.",
+        "size": 70,
+        "reviews": 40000000,
+        "ratingAvg": 4.5,
+        "downloads": "1.1",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200000
+            },
+            {
+                "name": "2 star",
+                "count": 100000
+            },
+            {
+                "name": "3 star",
+                "count": 400000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 35300000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "https://i.ibb.co.com/8nNTK2vW/1658834272reddit-logo-transparent.png",
+        "title": "Reddit",
+        "companyName": "Reddit Inc.",
+        "description": "Reddit is a massive network of communities ('subreddits') where users can submit content—such as links, text posts, and images—and engage in discussions by upvoting or downvoting contributions. It serves as a social news aggregator and web content rating system, covering every niche interest imaginable and acting as a primary source for both niche community interaction and breaking news.",
+        "size": 95,
+        "reviews": 30000000,
+        "ratingAvg": 4.4,
+        "downloads": "0.9",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 150000
+            },
+            {
+                "name": "3 star",
+                "count": 750000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 24800000
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "https://i.ibb.co.com/zHshYMKF/Duolingo-social-square-flick-original.jpg",
+        "title": "Duolingo",
+        "companyName": "Duolingo, Inc.",
+        "description": "Duolingo is a highly engaging, free language-learning application that makes acquiring a new language fun and effective through short, gamified lessons. It covers a vast range of languages, encouraging users with streaks, points, and leaderboards. Its mission is to make language education universally accessible, and its distinctive owl mascot, 'Duo,' promotes consistent, daily practice.",
+        "size": 80,
+        "reviews": 20000000,
+        "ratingAvg": 4.7,
+        "downloads": "0.8",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 100000
+            },
+            {
+                "name": "2 star",
+                "count": 50000
+            },
+            {
+                "name": "3 star",
+                "count": 200000
+            },
+            {
+                "name": "4 star",
+                "count": 2000000
+            },
+            {
+                "name": "5 star",
+                "count": 17650000
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "https://i.ibb.co.com/qMhYRF0X/c578982a-5f1a-49db-bafd-d5a21bf40fa3.jpg",
+        "title": "Tinder",
+        "companyName": "Match Group, LLC",
+        "description": "Tinder is a globally dominant dating and social app that helps users find potential romantic or social connections using a location-based algorithm and a highly intuitive interface. Users swipe right to 'like' or left to 'pass' on profiles. Its simple, effective system has fundamentally changed the landscape of digital dating, leading to millions of matches and connections worldwide.",
+        "size": 45,
+        "reviews": 25000000,
+        "ratingAvg": 4.0,
+        "downloads": "0.5",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 450000
+            },
+            {
+                "name": "2 star",
+                "count": 250000
+            },
+            {
+                "name": "3 star",
+                "count": 1500000
+            },
+            {
+                "name": "4 star",
+                "count": 4000000
+            },
+            {
+                "name": "5 star",
+                "count": 18800000
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "https://i.ibb.co.com/4wTBG1g6/pngimg-com-chatgpt-PNG14.png",
+        "title": "ChatGPT",
+        "companyName": "OpenAI",
+        "description": "ChatGPT is a cutting-edge AI chatbot application based on advanced language models, capable of engaging in human-like dialogue, answering complex questions, writing essays, generating code, and assisting with creative tasks. It is utilized as a powerful tool for information retrieval, education, brainstorming, and productivity, demonstrating the transformative potential of conversational AI in a mobile format.",
+        "size": 50,
+        "reviews": 12000000,
+        "ratingAvg": 4.7,
+        "downloads": "0.3",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50000
+            },
+            {
+                "name": "2 star",
+                "count": 20000
+            },
+            {
+                "name": "3 star",
+                "count": 150000
+            },
+            {
+                "name": "4 star",
+                "count": 1500000
+            },
+            {
+                "name": "5 star",
+                "count": 10280000
+            }
+        ]
+    }
+]
